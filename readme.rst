@@ -9,7 +9,7 @@ Coding Style - Allman
 ************
 Team Members:
 Rupinder Sandhu - owner
-John
+John Chang
 Renan Aguiar 
 ************
 
