@@ -8,7 +8,7 @@ Coding Style - Allman
 
 ************
 Team Members:
-Rupinder
+Rupinder Sandhu - owner
 John
 Renan
 ************
