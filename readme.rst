@@ -9,7 +9,7 @@ Coding Style - Allman
 ************
 Team Members:
 Rupinder
-John
+John Chang
 Renan
 ************
 
