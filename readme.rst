@@ -10,7 +10,7 @@ Coding Style - Allman
 Team Members:
 Rupinder Sandhu - owner
 John
-Renan
+Renan Aguiar 
 ************
 
 This is the starter webapp for Tutorial ci-normal01
