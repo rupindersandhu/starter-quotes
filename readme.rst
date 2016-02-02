@@ -8,9 +8,9 @@ Coding Style - Allman
 
 ************
 Team Members:
-Rupinder
+Rupinder Sandhu - owner
 John Chang
-Renan
+Renan Aguiar 
 ************
 
 This is the starter webapp for Tutorial ci-normal01
